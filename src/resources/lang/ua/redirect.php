@@ -1,0 +1,25 @@
+<?php
+
+    return [
+        'redirect'       => 'Модуль перенаправлень',
+        'create'         => 'Створити',
+        'edit'           => 'Редагувати',
+        'destroy'        => 'Видалити',
+        'search'         => 'Пошук',
+        'nothing_found'  => 'Нічого не знайдено',
+        'url_from'       => 'З',
+        'url_to'         => 'На',
+        'status_code'    => 'Статус код',
+        'position'       => 'Позиція',
+        'is_active'      => 'Активний?',
+        'yes'            => 'Так',
+        'no'             => 'Ні',
+        'back'           => 'Назад',
+        'choose_option'  => 'Оберіть Статус Код',
+        'enter_url_from' => 'Введіть URL З',
+        'enter_url_to'   => 'Введіть URL На',
+        'enter_position' => 'Введіть позицію',
+        'stored'         => 'Збережено',
+        'updated'        => 'Оновлено',
+        'destroyed'      => 'Видалено',
+    ];

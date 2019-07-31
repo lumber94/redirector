@@ -1,0 +1,25 @@
+<?php
+
+    return [
+        'redirect'       => 'Модуль перенаправленний',
+        'create'         => 'Создать',
+        'edit'           => 'Редактировать',
+        'destroy'        => 'Удалить',
+        'search'         => 'Поиск',
+        'nothing_found'  => 'Ничего не найдено',
+        'url_from'       => 'С',
+        'url_to'         => 'На',
+        'status_code'    => 'Статус код',
+        'position'       => 'Позиция',
+        'is_active'      => 'Активный?',
+        'yes'            => 'Да',
+        'no'             => 'Нет',
+        'back'           => 'Назад',
+        'choose_option'  => 'Выберите Статус Код',
+        'enter_url_from' => 'Введите URL С',
+        'enter_url_to'   => 'Введите URL На',
+        'enter_position' => 'Введите позицию',
+        'stored'         => 'Сохранено',
+        'updated'        => 'Обновлено',
+        'destroyed'      => 'Удалено',
+    ];

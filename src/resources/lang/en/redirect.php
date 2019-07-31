@@ -1,0 +1,25 @@
+<?php
+
+    return [
+        'redirect'       => 'Redirect module',
+        'create'         => 'Create',
+        'edit'           => 'Edit',
+        'destroy'        => 'Destroy',
+        'search'         => 'Search',
+        'nothing_found'  => 'Nothing found',
+        'url_from'       => 'Url From',
+        'url_to'         => 'Url To',
+        'status_code'    => 'Status Code',
+        'position'       => 'Position',
+        'is_active'      => 'Is Active?',
+        'yes'            => 'Yes',
+        'no'             => 'No',
+        'back'           => 'Back',
+        'choose_option'  => 'Choose Status Code',
+        'enter_url_from' => 'Enter Url From',
+        'enter_url_to'   => 'Enter Url To',
+        'enter_position' => 'Enter Position',
+        'stored'         => 'Stored',
+        'updated'        => 'Updated',
+        'destroyed'      => 'Destroyed',
+    ];
